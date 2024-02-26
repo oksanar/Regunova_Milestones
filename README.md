@@ -26,3 +26,7 @@ Python Beginner course and all Milestones
 - [generate_data.py](milestone_5/generate_data.py)
 - [report.py](milestone_5/report.py)
 - [requirements.txt](milestone_5/requirements.txt)
+
+### [Milestone 6](milestone_6)
+
+- [milestone_6_bookkeeping.md](milestone_6/milestone_6_bookkeeping.md)
