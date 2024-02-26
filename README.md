@@ -11,3 +11,7 @@ Python Beginner course and all Milestones
 
 - [decrypt.py](milestone_2/decrypt.py)
 - [encrypt.py](milestone_2/encrypt.py)
+
+### [Milestone 3](milestone_3)
+
+- [triangle.py](milestone_3/triangle.py)
