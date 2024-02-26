@@ -7,3 +7,7 @@ Python Beginner course and all Milestones
 
 - [milestone_1_equations.py](milestone_1/milestone_1_equations.py)
 
+### [Milestone 2](milestone_2)
+
+- [decrypt.py](milestone_2/decrypt.py)
+- [encrypt.py](milestone_2/encrypt.py)
