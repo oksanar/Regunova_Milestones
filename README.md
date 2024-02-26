@@ -19,3 +19,10 @@ Python Beginner course and all Milestones
 ### [Milestone 4](milestone_4)
 
 - [milestone_4_tradeoffs.py](milestone_4/milestone_4_tradeoffs.py)
+
+### [Milestone 5](milestone_5)
+
+- [database.csv](milestone_5/database.csv)
+- [generate_data.py](milestone_5/generate_data.py)
+- [report.py](milestone_5/report.py)
+- [requirements.txt](milestone_5/requirements.txt)
