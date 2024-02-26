@@ -15,3 +15,7 @@ Python Beginner course and all Milestones
 ### [Milestone 3](milestone_3)
 
 - [triangle.py](milestone_3/triangle.py)
+
+### [Milestone 4](milestone_4)
+
+- [milestone_4_tradeoffs.py](milestone_4/milestone_4_tradeoffs.py)
