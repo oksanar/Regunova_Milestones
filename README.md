@@ -30,3 +30,12 @@ Python Beginner course and all Milestones
 ### [Milestone 6](milestone_6)
 
 - [milestone_6_bookkeeping.md](milestone_6/milestone_6_bookkeeping.md)
+
+### [Milestone 7](milestone_7)
+
+- [database.csv](milestone_7/database.csv)
+- [fetch_report.py](milestone_7/fetch_report.py)
+- [README.md](milestone_7/README.md)
+- [requirements.txt](milestone_7/requirements.txt)
+- [server.py](milestone_7/server.py)
+  

@@ -1,0 +1,4 @@
+Flask
+python-dateutil>=2.4
+URLSearchParams
+requests
