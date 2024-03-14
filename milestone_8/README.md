@@ -29,3 +29,21 @@ pip3 install -r requirements.txt
 ![Class diagramm](uml/plantuml.png)
 
 [PlantUML.txt](uml/PlantUML.txt)
+
+
+## Generate Books Data
+
+```bash
+python3 generate_data.py
+```
+Generated data will be saved to [unsorted_books.csv](unsorted_books.csv)
+
+
+## Run Books organiser
+
+
+Books organiser will place books to shelfes by genres and genres type, save result to [Bob_books_room.json](Bob_books_room.json)
+
+```bash
+python3 books_organiser.py
+```

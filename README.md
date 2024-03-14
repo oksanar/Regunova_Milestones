@@ -38,4 +38,7 @@ Python Beginner course and all Milestones
 - [README.md](milestone_7/README.md)
 - [requirements.txt](milestone_7/requirements.txt)
 - [server.py](milestone_7/server.py)
-  
+
+### [Milestone 8](milestone_8)
+
+All instructions for setup and run **Milestone 8** are in [README.md](milestone_8/README.md)
