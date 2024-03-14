@@ -1,0 +1,36 @@
+@startuml
+class Shelf {
+    +id
+    +genry_type
+    +genries
+    add_book(book: Book)
+    get_books(): List[Book]
+    sort_books_by_title()
+    to_dict()
+    -__id: int
+    -__genry_type: str
+    -__genries: List[str]
+    -__books: List[Book]
+    __init__()
+}
+
+class Book {
+    +id
+    +title
+    +author
+    +genry_type
+    +genry
+    +isbn
+    to_dict()
+    -__id: int
+    -__title: str
+    -__author: str
+    -__genry_type: str
+    -__genry: str
+    -__isbn: str
+    __init__()
+}
+
+Shelf-{Book
+
+@enduml

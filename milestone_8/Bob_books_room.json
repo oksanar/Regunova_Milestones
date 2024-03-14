@@ -1,0 +1,2145 @@
+[
+  {
+    "id": 1,
+    "genry_type": "nonfiction",
+    "genries": [
+      "Textbook",
+      "History",
+      "Religion, spirituality, and new age",
+      "Math",
+      "Guide",
+      "Art/architecture",
+      "Memoir",
+      "Travel",
+      "Review",
+      "Biography",
+      "Sports and leisure",
+      "Cookbook",
+      "Health/fitness",
+      "Science",
+      "Prayer",
+      "Self help",
+      "Humor",
+      "Autobiography",
+      "Home and garden",
+      "Business/economics",
+      "Journal",
+      "Encyclopedia",
+      "Dictionary",
+      "Diary",
+      "Philosophy",
+      "Crafts/hobbies",
+      "True crime"
+    ],
+    "books": [
+      {
+        "id": "412",
+        "title": "Ameliorated demand-driven attitude",
+        "author": "Melody Rosales",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-1-80172-694-8"
+      },
+      {
+        "id": "114",
+        "title": "Ameliorated methodical analyzer",
+        "author": "Natalie Schneider",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-1-4615-8813-9"
+      },
+      {
+        "id": "86",
+        "title": "Ameliorated uniform moratorium",
+        "author": "Seth Thomas",
+        "genry_type": "nonfiction",
+        "genry": "Review",
+        "isbn": "978-1-883471-85-9"
+      },
+      {
+        "id": "36",
+        "title": "Assimilated 4thgeneration support",
+        "author": "Andrew Smith",
+        "genry_type": "nonfiction",
+        "genry": "Memoir",
+        "isbn": "978-1-4249-1908-6"
+      },
+      {
+        "id": "200",
+        "title": "Balanced uniform complexity",
+        "author": "Jacqueline Parker",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-1-02-552666-9"
+      },
+      {
+        "id": "48",
+        "title": "Business-focused national complexity",
+        "author": "Kelsey Mckee",
+        "genry_type": "nonfiction",
+        "genry": "Memoir",
+        "isbn": "978-0-385-92078-0"
+      },
+      {
+        "id": "20",
+        "title": "Cloned solution-oriented analyzer",
+        "author": "Anna Wolf",
+        "genry_type": "nonfiction",
+        "genry": "Prayer",
+        "isbn": "978-1-55777-833-8"
+      },
+      {
+        "id": "462",
+        "title": "Compatible client-driven knowledge user",
+        "author": "Sheila Craig",
+        "genry_type": "nonfiction",
+        "genry": "Travel",
+        "isbn": "978-1-59557-614-9"
+      },
+      {
+        "id": "344",
+        "title": "Compatible motivating groupware",
+        "author": "Sara Webster",
+        "genry_type": "nonfiction",
+        "genry": "Home and garden",
+        "isbn": "978-0-393-35500-0"
+      },
+      {
+        "id": "466",
+        "title": "Configurable 24/7 monitoring",
+        "author": "Savannah Dickson",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-0-353-24748-2"
+      },
+      {
+        "id": "342",
+        "title": "Cross-group full-range forecast",
+        "author": "Morgan Lynch",
+        "genry_type": "nonfiction",
+        "genry": "Biography",
+        "isbn": "978-0-640-79826-0"
+      },
+      {
+        "id": "6",
+        "title": "Cross-platform executive website",
+        "author": "Margaret Miller",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-55055-171-6"
+      },
+      {
+        "id": "336",
+        "title": "Cross-platform neutral orchestration",
+        "author": "Taylor Rowe",
+        "genry_type": "nonfiction",
+        "genry": "Health/fitness",
+        "isbn": "978-1-4719-7186-0"
+      },
+      {
+        "id": "306",
+        "title": "Customer-focused 5thgeneration open architecture",
+        "author": "Colleen Schmidt",
+        "genry_type": "nonfiction",
+        "genry": "Biography",
+        "isbn": "978-0-07-576459-5"
+      },
+      {
+        "id": "256",
+        "title": "Customer-focused responsive solution",
+        "author": "Jamie Simpson",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-1-59257-242-7"
+      },
+      {
+        "id": "438",
+        "title": "Customizable modular throughput",
+        "author": "Darlene Levy",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-1-78822-707-0"
+      },
+      {
+        "id": "118",
+        "title": "De-engineered mission-critical moratorium",
+        "author": "Craig Powell",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-266-92348-7"
+      },
+      {
+        "id": "266",
+        "title": "Decentralized heuristic customer loyalty",
+        "author": "Ian Maxwell",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-03-333070-8"
+      },
+      {
+        "id": "190",
+        "title": "Decentralized systematic intranet",
+        "author": "Julie Watts",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-1-945410-65-9"
+      },
+      {
+        "id": "184",
+        "title": "Devolved bifurcated structure",
+        "author": "Ann Olson",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-60811-680-5"
+      },
+      {
+        "id": "374",
+        "title": "Devolved static secured line",
+        "author": "Alicia Drake",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-0-584-39904-2"
+      },
+      {
+        "id": "106",
+        "title": "Digitized bottom-line moratorium",
+        "author": "Tammy Clark",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-0-690-43416-3"
+      },
+      {
+        "id": "358",
+        "title": "Digitized disintermediate open architecture",
+        "author": "Gail Chung",
+        "genry_type": "nonfiction",
+        "genry": "Sports and leisure",
+        "isbn": "978-1-4693-7471-0"
+      },
+      {
+        "id": "18",
+        "title": "Distributed contextually-based Graphic Interface",
+        "author": "Kevin Case",
+        "genry_type": "nonfiction",
+        "genry": "History",
+        "isbn": "978-0-9675643-7-1"
+      },
+      {
+        "id": "332",
+        "title": "Distributed foreground customer loyalty",
+        "author": "Michele Hoffman",
+        "genry_type": "nonfiction",
+        "genry": "Memoir",
+        "isbn": "978-0-7036-2644-8"
+      },
+      {
+        "id": "172",
+        "title": "Distributed incremental projection",
+        "author": "Karla Peterson",
+        "genry_type": "nonfiction",
+        "genry": "Prayer",
+        "isbn": "978-1-9996625-3-0"
+      },
+      {
+        "id": "444",
+        "title": "Distributed methodical structure",
+        "author": "Carlos Vance",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-0-87834-696-7"
+      },
+      {
+        "id": "476",
+        "title": "Diverse impactful time-frame",
+        "author": "Bridget Hubbard",
+        "genry_type": "nonfiction",
+        "genry": "Prayer",
+        "isbn": "978-1-75256-602-0"
+      },
+      {
+        "id": "284",
+        "title": "Diverse modular standardization",
+        "author": "Tabitha York",
+        "genry_type": "nonfiction",
+        "genry": "Travel",
+        "isbn": "978-0-86598-152-2"
+      },
+      {
+        "id": "436",
+        "title": "Down-sized secondary workforce",
+        "author": "Joyce Bass",
+        "genry_type": "nonfiction",
+        "genry": "Health/fitness",
+        "isbn": "978-1-328-39679-2"
+      },
+      {
+        "id": "322",
+        "title": "Enterprise-wide bifurcated ability",
+        "author": "Rita Duncan",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-0-13-977279-5"
+      },
+      {
+        "id": "304",
+        "title": "Enterprise-wide object-oriented complexity",
+        "author": "Grace Barr",
+        "genry_type": "nonfiction",
+        "genry": "Memoir",
+        "isbn": "978-1-58204-719-5"
+      },
+      {
+        "id": "388",
+        "title": "Enterprise-wide systematic toolset",
+        "author": "Sydney Kline",
+        "genry_type": "nonfiction",
+        "genry": "Diary",
+        "isbn": "978-0-481-42933-0"
+      },
+      {
+        "id": "156",
+        "title": "Ergonomic bi-directional instruction set",
+        "author": "Debra Green",
+        "genry_type": "nonfiction",
+        "genry": "Textbook",
+        "isbn": "978-0-305-04863-1"
+      },
+      {
+        "id": "348",
+        "title": "Ergonomic maximized framework",
+        "author": "Katie Arroyo",
+        "genry_type": "nonfiction",
+        "genry": "Home and garden",
+        "isbn": "978-1-80210-319-9"
+      },
+      {
+        "id": "126",
+        "title": "Exclusive analyzing moratorium",
+        "author": "Janet Hess",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-0-434-67699-6"
+      },
+      {
+        "id": "276",
+        "title": "Exclusive coherent secured line",
+        "author": "Angie Harris",
+        "genry_type": "nonfiction",
+        "genry": "Textbook",
+        "isbn": "978-1-67907-592-6"
+      },
+      {
+        "id": "490",
+        "title": "Exclusive encompassing help-desk",
+        "author": "Jim Mcguire",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-0-671-06941-4"
+      },
+      {
+        "id": "410",
+        "title": "Exclusive hybrid Graphic Interface",
+        "author": "Madison Ashley",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-4301-6989-5"
+      },
+      {
+        "id": "16",
+        "title": "Face-to-face zero administration artificial intelligence",
+        "author": "Jesse Blanchard",
+        "genry_type": "nonfiction",
+        "genry": "Humor",
+        "isbn": "978-0-411-81472-4"
+      },
+      {
+        "id": "480",
+        "title": "Focused disintermediate productivity",
+        "author": "Bianca Keller",
+        "genry_type": "nonfiction",
+        "genry": "Textbook",
+        "isbn": "978-0-8474-2237-1"
+      },
+      {
+        "id": "144",
+        "title": "Fully-configurable leadingedge access",
+        "author": "Cody Knight",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-0-16-286133-6"
+      },
+      {
+        "id": "402",
+        "title": "Fully-configurable radical functionalities",
+        "author": "Austin Mitchell",
+        "genry_type": "nonfiction",
+        "genry": "Business/economics",
+        "isbn": "978-1-85898-160-4"
+      },
+      {
+        "id": "300",
+        "title": "Function-based analyzing alliance",
+        "author": "Paula Shields",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-0-251-03507-5"
+      },
+      {
+        "id": "290",
+        "title": "Function-based client-driven strategy",
+        "author": "Jo Vega",
+        "genry_type": "nonfiction",
+        "genry": "Review",
+        "isbn": "978-1-186-64067-9"
+      },
+      {
+        "id": "102",
+        "title": "Future-proofed hybrid focus group",
+        "author": "Tara Dunn",
+        "genry_type": "nonfiction",
+        "genry": "Dictionary",
+        "isbn": "978-1-72384-788-2"
+      },
+      {
+        "id": "494",
+        "title": "Grass-roots multimedia product",
+        "author": "Grant Mccarty",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-0-508-69132-0"
+      },
+      {
+        "id": "338",
+        "title": "Horizontal global complexity",
+        "author": "Harry Cunningham",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-306-05248-1"
+      },
+      {
+        "id": "312",
+        "title": "Implemented stable hierarchy",
+        "author": "Sonya Gordon",
+        "genry_type": "nonfiction",
+        "genry": "Cookbook",
+        "isbn": "978-0-439-76114-7"
+      },
+      {
+        "id": "84",
+        "title": "Innovative fault-tolerant conglomeration",
+        "author": "Francisco Malone",
+        "genry_type": "nonfiction",
+        "genry": "Philosophy",
+        "isbn": "978-0-89668-940-4"
+      },
+      {
+        "id": "160",
+        "title": "Innovative motivating open architecture",
+        "author": "Raymond Nguyen",
+        "genry_type": "nonfiction",
+        "genry": "Travel",
+        "isbn": "978-1-930393-05-9"
+      },
+      {
+        "id": "202",
+        "title": "Integrated leadingedge algorithm",
+        "author": "Trevor Navarro",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-0-9995285-5-6"
+      },
+      {
+        "id": "10",
+        "title": "Intuitive contextually-based strategy",
+        "author": "Adam Bernard",
+        "genry_type": "nonfiction",
+        "genry": "Diary",
+        "isbn": "978-0-10-623481-3"
+      },
+      {
+        "id": "186",
+        "title": "Intuitive homogeneous info-mediaries",
+        "author": "Samantha Nelson",
+        "genry_type": "nonfiction",
+        "genry": "Diary",
+        "isbn": "978-0-7338-8549-5"
+      },
+      {
+        "id": "418",
+        "title": "Managed methodical Graphic Interface",
+        "author": "Stacey Horton",
+        "genry_type": "nonfiction",
+        "genry": "Cookbook",
+        "isbn": "978-0-15-610220-9"
+      },
+      {
+        "id": "2",
+        "title": "Managed user-facing website",
+        "author": "Martin Rose",
+        "genry_type": "nonfiction",
+        "genry": "Review",
+        "isbn": "978-0-593-96180-3"
+      },
+      {
+        "id": "492",
+        "title": "Mandatory tangible project",
+        "author": "Joanna Oconnell",
+        "genry_type": "nonfiction",
+        "genry": "Guide",
+        "isbn": "978-0-437-98827-0"
+      },
+      {
+        "id": "264",
+        "title": "Monitored contextually-based algorithm",
+        "author": "Nathaniel Arnold",
+        "genry_type": "nonfiction",
+        "genry": "Review",
+        "isbn": "978-0-01-777090-5"
+      },
+      {
+        "id": "384",
+        "title": "Monitored regional support",
+        "author": "Christie Wilcox",
+        "genry_type": "nonfiction",
+        "genry": "Autobiography",
+        "isbn": "978-0-516-49920-8"
+      },
+      {
+        "id": "24",
+        "title": "Multi-channeled didactic Graphic Interface",
+        "author": "Jermaine Brown",
+        "genry_type": "nonfiction",
+        "genry": "Guide",
+        "isbn": "978-1-05-851257-8"
+      },
+      {
+        "id": "26",
+        "title": "Multi-channeled foreground portal",
+        "author": "Brenda Mckay",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-179-98252-6"
+      },
+      {
+        "id": "452",
+        "title": "Multi-channeled scalable support",
+        "author": "Diamond Pollard",
+        "genry_type": "nonfiction",
+        "genry": "Home and garden",
+        "isbn": "978-1-5356-3578-3"
+      },
+      {
+        "id": "72",
+        "title": "Multi-channeled uniform success",
+        "author": "Nancy Pace",
+        "genry_type": "nonfiction",
+        "genry": "History",
+        "isbn": "978-1-63771-459-1"
+      },
+      {
+        "id": "204",
+        "title": "Multi-lateral explicit interface",
+        "author": "Brian Graham",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-0-7393-9766-4"
+      },
+      {
+        "id": "460",
+        "title": "Multi-layered multimedia alliance",
+        "author": "Hunter Nielsen",
+        "genry_type": "nonfiction",
+        "genry": "Biography",
+        "isbn": "978-0-14-944431-6"
+      },
+      {
+        "id": "288",
+        "title": "Multi-layered system-worthy focus group",
+        "author": "Madeline Bradley",
+        "genry_type": "nonfiction",
+        "genry": "Crafts/hobbies",
+        "isbn": "978-0-673-33161-8"
+      },
+      {
+        "id": "62",
+        "title": "Multi-tiered coherent help-desk",
+        "author": "Eric Russell",
+        "genry_type": "nonfiction",
+        "genry": "Science",
+        "isbn": "978-0-354-86640-8"
+      },
+      {
+        "id": "238",
+        "title": "Multi-tiered disintermediate emulation",
+        "author": "Kim Cook",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-5303-9244-5"
+      },
+      {
+        "id": "360",
+        "title": "Multi-tiered uniform synergy",
+        "author": "Warren Powers",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-0-89629-850-7"
+      },
+      {
+        "id": "214",
+        "title": "Networked incremental Graphic Interface",
+        "author": "Krista Hamilton",
+        "genry_type": "nonfiction",
+        "genry": "Crafts/hobbies",
+        "isbn": "978-1-9753-2860-3"
+      },
+      {
+        "id": "134",
+        "title": "Open-architected didactic hierarchy",
+        "author": "Alexis Berry",
+        "genry_type": "nonfiction",
+        "genry": "Science",
+        "isbn": "978-0-9821795-9-8"
+      },
+      {
+        "id": "52",
+        "title": "Open-architected full-range emulation",
+        "author": "Billy Zimmerman",
+        "genry_type": "nonfiction",
+        "genry": "Diary",
+        "isbn": "978-0-490-62287-6"
+      },
+      {
+        "id": "150",
+        "title": "Open-source demand-driven definition",
+        "author": "Tracey Lee",
+        "genry_type": "nonfiction",
+        "genry": "Science",
+        "isbn": "978-0-944232-97-2"
+      },
+      {
+        "id": "372",
+        "title": "Optional didactic moderator",
+        "author": "Meredith Guerrero",
+        "genry_type": "nonfiction",
+        "genry": "Textbook",
+        "isbn": "978-0-7545-6212-2"
+      },
+      {
+        "id": "74",
+        "title": "Organized real-time system engine",
+        "author": "Monica Macias",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-879791-94-7"
+      },
+      {
+        "id": "176",
+        "title": "Organized zero administration algorithm",
+        "author": "Kathryn Coleman",
+        "genry_type": "nonfiction",
+        "genry": "Prayer",
+        "isbn": "978-0-16-976539-2"
+      },
+      {
+        "id": "298",
+        "title": "Polarized multi-state portal",
+        "author": "Deanna Reeves",
+        "genry_type": "nonfiction",
+        "genry": "Humor",
+        "isbn": "978-0-931466-55-7"
+      },
+      {
+        "id": "146",
+        "title": "Polarized zero tolerance application",
+        "author": "Ronnie Huffman",
+        "genry_type": "nonfiction",
+        "genry": "Autobiography",
+        "isbn": "978-0-264-74362-2"
+      },
+      {
+        "id": "478",
+        "title": "Pre-emptive needs-based data-warehouse",
+        "author": "Brittney Brennan",
+        "genry_type": "nonfiction",
+        "genry": "Business/economics",
+        "isbn": "978-0-9716578-9-2"
+      },
+      {
+        "id": "408",
+        "title": "Pre-emptive responsive product",
+        "author": "Kristina Jordan",
+        "genry_type": "nonfiction",
+        "genry": "Memoir",
+        "isbn": "978-1-115-31403-9"
+      },
+      {
+        "id": "94",
+        "title": "Proactive human-resource collaboration",
+        "author": "Micheal Ware",
+        "genry_type": "nonfiction",
+        "genry": "Guide",
+        "isbn": "978-0-13-963310-2"
+      },
+      {
+        "id": "270",
+        "title": "Proactive impactful projection",
+        "author": "Charles Shelton",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-1-196-31294-8"
+      },
+      {
+        "id": "308",
+        "title": "Profit-focused 24hour Local Area Network",
+        "author": "Jay Rangel",
+        "genry_type": "nonfiction",
+        "genry": "Sports and leisure",
+        "isbn": "978-0-377-13012-8"
+      },
+      {
+        "id": "220",
+        "title": "Profit-focused didactic capability",
+        "author": "Lauren Lam",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-5348-3265-7"
+      },
+      {
+        "id": "76",
+        "title": "Profound client-driven challenge",
+        "author": "Jeffery Hale",
+        "genry_type": "nonfiction",
+        "genry": "Biography",
+        "isbn": "978-1-884388-24-8"
+      },
+      {
+        "id": "120",
+        "title": "Profound intangible policy",
+        "author": "Patrick Jimenez",
+        "genry_type": "nonfiction",
+        "genry": "Review",
+        "isbn": "978-1-75989-889-6"
+      },
+      {
+        "id": "244",
+        "title": "Progressive zero administration application",
+        "author": "Frank Price",
+        "genry_type": "nonfiction",
+        "genry": "Prayer",
+        "isbn": "978-0-356-87123-3"
+      },
+      {
+        "id": "488",
+        "title": "Public-key object-oriented portal",
+        "author": "Brent Oconnor",
+        "genry_type": "nonfiction",
+        "genry": "Humor",
+        "isbn": "978-1-78746-940-2"
+      },
+      {
+        "id": "294",
+        "title": "Quality-focused 3rdgeneration budgetary management",
+        "author": "Anne Frazier",
+        "genry_type": "nonfiction",
+        "genry": "Health/fitness",
+        "isbn": "978-1-875447-15-2"
+      },
+      {
+        "id": "158",
+        "title": "Quality-focused human-resource open architecture",
+        "author": "Amanda Becker",
+        "genry_type": "nonfiction",
+        "genry": "Humor",
+        "isbn": "978-0-07-220249-6"
+      },
+      {
+        "id": "230",
+        "title": "Quality-focused mission-critical hub",
+        "author": "Curtis Barber",
+        "genry_type": "nonfiction",
+        "genry": "History",
+        "isbn": "978-0-490-79746-8"
+      },
+      {
+        "id": "406",
+        "title": "Re-contextualized attitude-oriented projection",
+        "author": "Sandra Hines",
+        "genry_type": "nonfiction",
+        "genry": "Religion, spirituality, and new age",
+        "isbn": "978-1-5310-0522-1"
+      },
+      {
+        "id": "132",
+        "title": "Re-contextualized holistic application",
+        "author": "Robert Reid",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-1-02-455755-8"
+      },
+      {
+        "id": "234",
+        "title": "Re-engineered 3rdgeneration projection",
+        "author": "Tiffany Phelps",
+        "genry_type": "nonfiction",
+        "genry": "History",
+        "isbn": "978-0-06-308562-6"
+      },
+      {
+        "id": "446",
+        "title": "Re-engineered exuding open system",
+        "author": "Stanley Frye",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-0-7885-7542-6"
+      },
+      {
+        "id": "66",
+        "title": "Reactive system-worthy firmware",
+        "author": "Christy Blackwell",
+        "genry_type": "nonfiction",
+        "genry": "Cookbook",
+        "isbn": "978-1-4523-5418-7"
+      },
+      {
+        "id": "178",
+        "title": "Realigned multi-tasking matrix",
+        "author": "Erik Taylor",
+        "genry_type": "nonfiction",
+        "genry": "Diary",
+        "isbn": "978-0-7525-4863-0"
+      },
+      {
+        "id": "352",
+        "title": "Realigned optimal framework",
+        "author": "Derek Diaz",
+        "genry_type": "nonfiction",
+        "genry": "Cookbook",
+        "isbn": "978-0-619-93484-2"
+      },
+      {
+        "id": "286",
+        "title": "Reduced dynamic pricing structure",
+        "author": "Kari Fernandez",
+        "genry_type": "nonfiction",
+        "genry": "Encyclopedia",
+        "isbn": "978-1-228-60357-0"
+      },
+      {
+        "id": "404",
+        "title": "Reduced explicit support",
+        "author": "Ricardo Short",
+        "genry_type": "nonfiction",
+        "genry": "Business/economics",
+        "isbn": "978-1-03-622525-4"
+      },
+      {
+        "id": "122",
+        "title": "Reverse-engineered regional help-desk",
+        "author": "Ryan Cooley",
+        "genry_type": "nonfiction",
+        "genry": "Dictionary",
+        "isbn": "978-1-05-313235-1"
+      },
+      {
+        "id": "280",
+        "title": "Reverse-engineered systematic service-desk",
+        "author": "Ruth Gomez",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-0-413-25439-9"
+      },
+      {
+        "id": "96",
+        "title": "Secured asymmetric initiative",
+        "author": "Darryl Perkins",
+        "genry_type": "nonfiction",
+        "genry": "Art/architecture",
+        "isbn": "978-0-931049-78-1"
+      },
+      {
+        "id": "468",
+        "title": "Self-enabling intangible collaboration",
+        "author": "Selena Walsh",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-64788-849-7"
+      },
+      {
+        "id": "226",
+        "title": "Stand-alone dedicated circuit",
+        "author": "Dennis Myers",
+        "genry_type": "nonfiction",
+        "genry": "Biography",
+        "isbn": "978-0-16-125131-2"
+      },
+      {
+        "id": "320",
+        "title": "Streamlined homogeneous artificial intelligence",
+        "author": "Veronica Hart",
+        "genry_type": "nonfiction",
+        "genry": "Business/economics",
+        "isbn": "978-0-343-51437-2"
+      },
+      {
+        "id": "500",
+        "title": "Streamlined systemic structure",
+        "author": "Ralph Stone",
+        "genry_type": "nonfiction",
+        "genry": "Dictionary",
+        "isbn": "978-0-8334-9067-4"
+      },
+      {
+        "id": "8",
+        "title": "Switchable optimal standardization",
+        "author": "Lisa Franklin",
+        "genry_type": "nonfiction",
+        "genry": "Autobiography",
+        "isbn": "978-0-477-07288-5"
+      },
+      {
+        "id": "420",
+        "title": "Synergistic foreground hardware",
+        "author": "Dan Johns",
+        "genry_type": "nonfiction",
+        "genry": "Self help",
+        "isbn": "978-1-72983-605-7"
+      },
+      {
+        "id": "482",
+        "title": "Synergistic homogeneous contingency",
+        "author": "Glen Mcclure",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-0-528-01632-5"
+      },
+      {
+        "id": "90",
+        "title": "Synergistic impactful orchestration",
+        "author": "Aaron Hopkins",
+        "genry_type": "nonfiction",
+        "genry": "History",
+        "isbn": "978-1-114-96635-2"
+      },
+      {
+        "id": "116",
+        "title": "Team-oriented asynchronous utilization",
+        "author": "Penny Ryan",
+        "genry_type": "nonfiction",
+        "genry": "Prayer",
+        "isbn": "978-1-104-88370-6"
+      },
+      {
+        "id": "364",
+        "title": "Total static encoding",
+        "author": "Maxwell Daniels",
+        "genry_type": "nonfiction",
+        "genry": "Cookbook",
+        "isbn": "978-0-7101-3755-5"
+      },
+      {
+        "id": "346",
+        "title": "Triple-buffered zero administration archive",
+        "author": "Renee Reyes",
+        "genry_type": "nonfiction",
+        "genry": "Health/fitness",
+        "isbn": "978-0-417-87484-5"
+      },
+      {
+        "id": "130",
+        "title": "Up-sized empowering collaboration",
+        "author": "Beth Walker",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-1-77363-499-9"
+      },
+      {
+        "id": "274",
+        "title": "Up-sized encompassing collaboration",
+        "author": "Jenny Combs",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-173-33505-2"
+      },
+      {
+        "id": "496",
+        "title": "Up-sized tertiary hardware",
+        "author": "Audrey Hooper",
+        "genry_type": "nonfiction",
+        "genry": "Health/fitness",
+        "isbn": "978-1-139-98019-7"
+      },
+      {
+        "id": "414",
+        "title": "Upgradable regional installation",
+        "author": "Maureen Evans",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-0-603-90757-9"
+      },
+      {
+        "id": "44",
+        "title": "User-centric coherent help-desk",
+        "author": "Mary Boyer",
+        "genry_type": "nonfiction",
+        "genry": "Humor",
+        "isbn": "978-0-367-77583-4"
+      },
+      {
+        "id": "472",
+        "title": "User-friendly interactive array",
+        "author": "Max Garner",
+        "genry_type": "nonfiction",
+        "genry": "Sports and leisure",
+        "isbn": "978-0-9808814-5-5"
+      },
+      {
+        "id": "240",
+        "title": "User-friendly logistical pricing structure",
+        "author": "Miguel Skinner",
+        "genry_type": "nonfiction",
+        "genry": "Review",
+        "isbn": "978-0-342-18016-5"
+      },
+      {
+        "id": "268",
+        "title": "User-friendly scalable flexibility",
+        "author": "Wendy Mccall",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-5309-3667-0"
+      },
+      {
+        "id": "154",
+        "title": "Versatile holistic complexity",
+        "author": "Katelyn Perry",
+        "genry_type": "nonfiction",
+        "genry": "Math",
+        "isbn": "978-0-11-344843-2"
+      },
+      {
+        "id": "164",
+        "title": "Versatile user-facing projection",
+        "author": "Lawrence Anderson",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-1-83429-303-5"
+      },
+      {
+        "id": "30",
+        "title": "Vision-oriented full-range website",
+        "author": "Jessica Thompson",
+        "genry_type": "nonfiction",
+        "genry": "Humor",
+        "isbn": "978-0-477-47444-3"
+      },
+      {
+        "id": "370",
+        "title": "Visionary bi-directional migration",
+        "author": "Rebecca Joseph",
+        "genry_type": "nonfiction",
+        "genry": "True crime",
+        "isbn": "978-0-339-88994-1"
+      },
+      {
+        "id": "128",
+        "title": "Visionary eco-centric benchmark",
+        "author": "Joe Parsons",
+        "genry_type": "nonfiction",
+        "genry": "Business/economics",
+        "isbn": "978-1-149-14691-0"
+      },
+      {
+        "id": "470",
+        "title": "Visionary leadingedge firmware",
+        "author": "Chloe Fitzpatrick",
+        "genry_type": "nonfiction",
+        "genry": "Dictionary",
+        "isbn": "978-0-7743-4302-2"
+      },
+      {
+        "id": "310",
+        "title": "Visionary mission-critical open system",
+        "author": "Jimmy Lawrence",
+        "genry_type": "nonfiction",
+        "genry": "Crafts/hobbies",
+        "isbn": "978-0-9956228-9-0"
+      },
+      {
+        "id": "440",
+        "title": "Visionary national workforce",
+        "author": "Destiny Barker",
+        "genry_type": "nonfiction",
+        "genry": "Journal",
+        "isbn": "978-0-13-923535-1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "genry_type": "fiction",
+    "genries": [
+      "Children's",
+      "Horror",
+      "Graphic novel",
+      "Satire",
+      "Historical fiction",
+      "Alternate history",
+      "Fairytale",
+      "Thriller",
+      "Western",
+      "Romance",
+      "Short story",
+      "Picture book",
+      "Young adult",
+      "Action and adventure",
+      "Science fiction",
+      "Coming-of-age",
+      "Suspense",
+      "Political thriller",
+      "Crime",
+      "Paranormal romance",
+      "Poetry",
+      "Chick lit",
+      "Anthology",
+      "Drama",
+      "Classic",
+      "Mystery",
+      "Fantasy",
+      "Comic book"
+    ],
+    "books": [
+      {
+        "id": "437",
+        "title": "Adaptive fresh-thinking knowledgebase",
+        "author": "Hannah Manning",
+        "genry_type": "fiction",
+        "genry": "Paranormal romance",
+        "isbn": "978-1-4741-7061-1"
+      },
+      {
+        "id": "365",
+        "title": "Automated attitude-oriented project",
+        "author": "Jasmine Flowers",
+        "genry_type": "fiction",
+        "genry": "Coming-of-age",
+        "isbn": "978-1-284-99490-2"
+      },
+      {
+        "id": "341",
+        "title": "Business-focused attitude-oriented synergy",
+        "author": "Louis Shannon",
+        "genry_type": "fiction",
+        "genry": "Alternate history",
+        "isbn": "978-1-76474-375-4"
+      },
+      {
+        "id": "455",
+        "title": "Business-focused bifurcated access",
+        "author": "Jared Hancock",
+        "genry_type": "fiction",
+        "genry": "Graphic novel",
+        "isbn": "978-1-62410-224-0"
+      },
+      {
+        "id": "241",
+        "title": "Centralized homogeneous throughput",
+        "author": "Vincent Cooke",
+        "genry_type": "fiction",
+        "genry": "Short story",
+        "isbn": "978-0-05-536103-5"
+      },
+      {
+        "id": "343",
+        "title": "Cloned 24hour concept",
+        "author": "Sheryl Hall",
+        "genry_type": "fiction",
+        "genry": "Coming-of-age",
+        "isbn": "978-1-246-61463-3"
+      },
+      {
+        "id": "459",
+        "title": "Cloned fresh-thinking encryption",
+        "author": "Cassie Chavez",
+        "genry_type": "fiction",
+        "genry": "Picture book",
+        "isbn": "978-1-295-60113-4"
+      },
+      {
+        "id": "165",
+        "title": "Configurable client-driven ability",
+        "author": "April Wagner",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-0-8468-8139-1"
+      },
+      {
+        "id": "349",
+        "title": "Cross-group multi-state neural-net",
+        "author": "Johnathan Ruiz",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-1-233-93759-2"
+      },
+      {
+        "id": "417",
+        "title": "Customer-focused upward-trending leverage",
+        "author": "Regina Rowland",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-1-76688-297-0"
+      },
+      {
+        "id": "105",
+        "title": "Decentralized 5thgeneration hub",
+        "author": "Troy Ramirez",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-0-934023-59-7"
+      },
+      {
+        "id": "145",
+        "title": "Decentralized foreground groupware",
+        "author": "Derrick Keith",
+        "genry_type": "fiction",
+        "genry": "Short story",
+        "isbn": "978-0-10-288716-7"
+      },
+      {
+        "id": "421",
+        "title": "Decentralized fresh-thinking matrix",
+        "author": "Priscilla Rubio",
+        "genry_type": "fiction",
+        "genry": "Fantasy",
+        "isbn": "978-1-5346-7850-7"
+      },
+      {
+        "id": "5",
+        "title": "Decentralized multimedia Local Area Network",
+        "author": "David Moon",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-1-359-58167-9"
+      },
+      {
+        "id": "129",
+        "title": "Devolved optimizing pricing structure",
+        "author": "Emma Morales",
+        "genry_type": "fiction",
+        "genry": "Poetry",
+        "isbn": "978-1-961446-50-2"
+      },
+      {
+        "id": "485",
+        "title": "Digitized exuding strategy",
+        "author": "Traci Jarvis",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-0-940692-24-4"
+      },
+      {
+        "id": "193",
+        "title": "Distributed exuding neural-net",
+        "author": "Allen Morgan",
+        "genry_type": "fiction",
+        "genry": "Fairytale",
+        "isbn": "978-0-946308-96-5"
+      },
+      {
+        "id": "221",
+        "title": "Enhanced content-based leverage",
+        "author": "Tim Houston",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-1-80937-621-3"
+      },
+      {
+        "id": "361",
+        "title": "Enhanced executive hub",
+        "author": "Cassidy Marsh",
+        "genry_type": "fiction",
+        "genry": "Political thriller",
+        "isbn": "978-1-79108-659-6"
+      },
+      {
+        "id": "25",
+        "title": "Enterprise-wide 4thgeneration benchmark",
+        "author": "Chelsea Robinson",
+        "genry_type": "fiction",
+        "genry": "Satire",
+        "isbn": "978-1-83294-123-5"
+      },
+      {
+        "id": "43",
+        "title": "Ergonomic attitude-oriented customer loyalty",
+        "author": "Angela Carter",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-0-210-21302-5"
+      },
+      {
+        "id": "149",
+        "title": "Ergonomic bi-directional projection",
+        "author": "Heidi Mata",
+        "genry_type": "fiction",
+        "genry": "Fantasy",
+        "isbn": "978-1-79567-597-0"
+      },
+      {
+        "id": "121",
+        "title": "Ergonomic needs-based workforce",
+        "author": "Andrea Hughes",
+        "genry_type": "fiction",
+        "genry": "Horror",
+        "isbn": "978-0-567-24545-8"
+      },
+      {
+        "id": "313",
+        "title": "Extended responsive hub",
+        "author": "Olivia Palmer",
+        "genry_type": "fiction",
+        "genry": "Satire",
+        "isbn": "978-0-12-261914-4"
+      },
+      {
+        "id": "369",
+        "title": "Extended transitional workforce",
+        "author": "Zachary Gibson",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-0-484-28045-7"
+      },
+      {
+        "id": "137",
+        "title": "Focused client-server synergy",
+        "author": "Kathy Rodgers",
+        "genry_type": "fiction",
+        "genry": "Crime",
+        "isbn": "978-1-72580-917-8"
+      },
+      {
+        "id": "477",
+        "title": "Focused systemic function",
+        "author": "Eugene Glenn",
+        "genry_type": "fiction",
+        "genry": "Fantasy",
+        "isbn": "978-0-928920-33-8"
+      },
+      {
+        "id": "131",
+        "title": "Focused zero administration methodology",
+        "author": "Carrie Valenzuela",
+        "genry_type": "fiction",
+        "genry": "Young adult",
+        "isbn": "978-1-195-58108-6"
+      },
+      {
+        "id": "387",
+        "title": "Fully-configurable exuding service-desk",
+        "author": "Lacey Todd",
+        "genry_type": "fiction",
+        "genry": "Horror",
+        "isbn": "978-1-04-747547-1"
+      },
+      {
+        "id": "115",
+        "title": "Fundamental empowering access",
+        "author": "Richard Johnston",
+        "genry_type": "fiction",
+        "genry": "Young adult",
+        "isbn": "978-0-89033-958-9"
+      },
+      {
+        "id": "481",
+        "title": "Fundamental exuding monitoring",
+        "author": "Clifford Hanson",
+        "genry_type": "fiction",
+        "genry": "Comic book",
+        "isbn": "978-0-670-55093-7"
+      },
+      {
+        "id": "247",
+        "title": "Future-proofed grid-enabled pricing structure",
+        "author": "Arthur Avila",
+        "genry_type": "fiction",
+        "genry": "Graphic novel",
+        "isbn": "978-0-288-24251-4"
+      },
+      {
+        "id": "403",
+        "title": "Future-proofed systemic initiative",
+        "author": "Aimee Pratt",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-0-442-05255-3"
+      },
+      {
+        "id": "283",
+        "title": "Grass-roots empowering Internet solution",
+        "author": "Cassandra Nolan",
+        "genry_type": "fiction",
+        "genry": "Suspense",
+        "isbn": "978-0-7575-7812-0"
+      },
+      {
+        "id": "305",
+        "title": "Grass-roots stable model",
+        "author": "Travis Harper",
+        "genry_type": "fiction",
+        "genry": "Historical fiction",
+        "isbn": "978-1-146-32104-4"
+      },
+      {
+        "id": "325",
+        "title": "Grass-roots value-added framework",
+        "author": "Jane Rivera",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-0-88444-063-5"
+      },
+      {
+        "id": "293",
+        "title": "Implemented secondary middleware",
+        "author": "Katrina Newton",
+        "genry_type": "fiction",
+        "genry": "Classic",
+        "isbn": "978-0-04-163301-6"
+      },
+      {
+        "id": "381",
+        "title": "Innovative fault-tolerant model",
+        "author": "Hailey Mendez",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-1-70702-908-2"
+      },
+      {
+        "id": "451",
+        "title": "Innovative modular monitoring",
+        "author": "Alexandria Montgomery",
+        "genry_type": "fiction",
+        "genry": "Comic book",
+        "isbn": "978-0-333-58347-0"
+      },
+      {
+        "id": "181",
+        "title": "Intuitive intangible initiative",
+        "author": "Mike Juarez",
+        "genry_type": "fiction",
+        "genry": "Fantasy",
+        "isbn": "978-0-219-78766-4"
+      },
+      {
+        "id": "263",
+        "title": "Intuitive tangible open architecture",
+        "author": "Brittany Burton",
+        "genry_type": "fiction",
+        "genry": "Satire",
+        "isbn": "978-1-310-91104-0"
+      },
+      {
+        "id": "103",
+        "title": "Inverse object-oriented model",
+        "author": "Cynthia Hansen",
+        "genry_type": "fiction",
+        "genry": "Action and adventure",
+        "isbn": "978-0-659-58390-1"
+      },
+      {
+        "id": "223",
+        "title": "Inverse responsive firmware",
+        "author": "Jill Rasmussen",
+        "genry_type": "fiction",
+        "genry": "Satire",
+        "isbn": "978-0-85484-885-0"
+      },
+      {
+        "id": "15",
+        "title": "Monitored national parallelism",
+        "author": "George Phillips",
+        "genry_type": "fiction",
+        "genry": "Graphic novel",
+        "isbn": "978-1-05-512755-3"
+      },
+      {
+        "id": "161",
+        "title": "Multi-channeled next generation pricing structure",
+        "author": "Holly Cain",
+        "genry_type": "fiction",
+        "genry": "Historical fiction",
+        "isbn": "978-0-7405-8127-4"
+      },
+      {
+        "id": "333",
+        "title": "Multi-channeled well-modulated capacity",
+        "author": "Ellen Farmer",
+        "genry_type": "fiction",
+        "genry": "Drama",
+        "isbn": "978-0-368-11252-2"
+      },
+      {
+        "id": "31",
+        "title": "Multi-lateral actuating solution",
+        "author": "Michelle Nunez",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-1-85429-247-6"
+      },
+      {
+        "id": "57",
+        "title": "Multi-lateral holistic access",
+        "author": "James May",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-0-7066-7676-1"
+      },
+      {
+        "id": "415",
+        "title": "Networked regional knowledge user",
+        "author": "Jerome Copeland",
+        "genry_type": "fiction",
+        "genry": "Classic",
+        "isbn": "978-1-71501-877-1"
+      },
+      {
+        "id": "231",
+        "title": "Object-based impactful capability",
+        "author": "Eduardo Fisher",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-0-11-651940-5"
+      },
+      {
+        "id": "491",
+        "title": "Object-based local knowledgebase",
+        "author": "Kerry Singh",
+        "genry_type": "fiction",
+        "genry": "Historical fiction",
+        "isbn": "978-1-00-412562-3"
+      },
+      {
+        "id": "253",
+        "title": "Open-architected motivating Graphic Interface",
+        "author": "Jacob Bray",
+        "genry_type": "fiction",
+        "genry": "Poetry",
+        "isbn": "978-0-498-14816-3"
+      },
+      {
+        "id": "187",
+        "title": "Open-source client-server structure",
+        "author": "Christian Sanders",
+        "genry_type": "fiction",
+        "genry": "Historical fiction",
+        "isbn": "978-1-4782-2511-9"
+      },
+      {
+        "id": "377",
+        "title": "Open-source system-worthy moratorium",
+        "author": "Javier Snyder",
+        "genry_type": "fiction",
+        "genry": "Graphic novel",
+        "isbn": "978-1-305-02941-5"
+      },
+      {
+        "id": "11",
+        "title": "Operative dedicated strategy",
+        "author": "Casey Flores",
+        "genry_type": "fiction",
+        "genry": "Poetry",
+        "isbn": "978-0-423-95433-3"
+      },
+      {
+        "id": "401",
+        "title": "Operative next generation core",
+        "author": "Philip Duran",
+        "genry_type": "fiction",
+        "genry": "Political thriller",
+        "isbn": "978-0-88300-329-9"
+      },
+      {
+        "id": "237",
+        "title": "Optional 24/7 archive",
+        "author": "Allison Barnes",
+        "genry_type": "fiction",
+        "genry": "Romance",
+        "isbn": "978-1-888378-95-5"
+      },
+      {
+        "id": "371",
+        "title": "Optional actuating function",
+        "author": "Barry Spencer",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-0-205-06902-6"
+      },
+      {
+        "id": "497",
+        "title": "Optional hybrid forecast",
+        "author": "Kaitlyn Rhodes",
+        "genry_type": "fiction",
+        "genry": "Fairytale",
+        "isbn": "978-0-388-91414-4"
+      },
+      {
+        "id": "353",
+        "title": "Organic content-based collaboration",
+        "author": "Theodore Mcmahon",
+        "genry_type": "fiction",
+        "genry": "Picture book",
+        "isbn": "978-1-199-45947-3"
+      },
+      {
+        "id": "127",
+        "title": "Organized heuristic help-desk",
+        "author": "Donald Patterson",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-0-351-30693-8"
+      },
+      {
+        "id": "411",
+        "title": "Organized neutral help-desk",
+        "author": "Carly Colon",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-1-371-47136-1"
+      },
+      {
+        "id": "239",
+        "title": "Organized neutral open architecture",
+        "author": "Duane Harvey",
+        "genry_type": "fiction",
+        "genry": "Science fiction",
+        "isbn": "978-1-74119-482-1"
+      },
+      {
+        "id": "235",
+        "title": "Organized tertiary approach",
+        "author": "Alexandra Wolfe",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-1-5059-8977-9"
+      },
+      {
+        "id": "245",
+        "title": "Persevering tangible productivity",
+        "author": "Sherry Gutierrez",
+        "genry_type": "fiction",
+        "genry": "Political thriller",
+        "isbn": "978-1-9734-7881-2"
+      },
+      {
+        "id": "495",
+        "title": "Persistent executive software",
+        "author": "Marc Velez",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-0-08-581392-4"
+      },
+      {
+        "id": "3",
+        "title": "Persistent modular paradigm",
+        "author": "Dawn Hardy",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-0-16-096399-5"
+      },
+      {
+        "id": "249",
+        "title": "Phased asymmetric paradigm",
+        "author": "Tonya Farrell",
+        "genry_type": "fiction",
+        "genry": "Science fiction",
+        "isbn": "978-0-636-30468-0"
+      },
+      {
+        "id": "275",
+        "title": "Phased foreground task-force",
+        "author": "Dwayne Roberts",
+        "genry_type": "fiction",
+        "genry": "Paranormal romance",
+        "isbn": "978-1-911091-35-6"
+      },
+      {
+        "id": "351",
+        "title": "Polarized leadingedge infrastructure",
+        "author": "Yolanda Chan",
+        "genry_type": "fiction",
+        "genry": "Comic book",
+        "isbn": "978-1-277-88064-9"
+      },
+      {
+        "id": "135",
+        "title": "Polarized scalable benchmark",
+        "author": "Robin Hendrix",
+        "genry_type": "fiction",
+        "genry": "Science fiction",
+        "isbn": "978-0-618-98550-0"
+      },
+      {
+        "id": "169",
+        "title": "Pre-emptive composite intranet",
+        "author": "Gabriella Lopez",
+        "genry_type": "fiction",
+        "genry": "Horror",
+        "isbn": "978-0-01-847320-1"
+      },
+      {
+        "id": "117",
+        "title": "Pre-emptive uniform functionalities",
+        "author": "Jonathan Stewart",
+        "genry_type": "fiction",
+        "genry": "Romance",
+        "isbn": "978-0-18-753418-5"
+      },
+      {
+        "id": "359",
+        "title": "Profit-focused 24/7 methodology",
+        "author": "Damon Costa",
+        "genry_type": "fiction",
+        "genry": "Fairytale",
+        "isbn": "978-0-7193-7267-4"
+      },
+      {
+        "id": "39",
+        "title": "Profit-focused zero-defect standardization",
+        "author": "Christine Young",
+        "genry_type": "fiction",
+        "genry": "Poetry",
+        "isbn": "978-0-382-37873-7"
+      },
+      {
+        "id": "271",
+        "title": "Profound multi-tasking hardware",
+        "author": "Larry Foster",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-1-996696-94-1"
+      },
+      {
+        "id": "315",
+        "title": "Programmable content-based data-warehouse",
+        "author": "Harold Thornton",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-0-604-42439-6"
+      },
+      {
+        "id": "99",
+        "title": "Programmable non-volatile website",
+        "author": "Karen Norton",
+        "genry_type": "fiction",
+        "genry": "Comic book",
+        "isbn": "978-0-03-102083-3"
+      },
+      {
+        "id": "125",
+        "title": "Progressive global budgetary management",
+        "author": "Amber Douglas",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-1-246-33907-9"
+      },
+      {
+        "id": "157",
+        "title": "Re-contextualized clear-thinking standardization",
+        "author": "Victor Henry",
+        "genry_type": "fiction",
+        "genry": "Children's",
+        "isbn": "978-1-4715-8440-4"
+      },
+      {
+        "id": "173",
+        "title": "Re-contextualized full-range info-mediaries",
+        "author": "Patty West",
+        "genry_type": "fiction",
+        "genry": "Drama",
+        "isbn": "978-1-72260-689-3"
+      },
+      {
+        "id": "45",
+        "title": "Re-engineered even-keeled core",
+        "author": "Paul Martinez",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-1-68310-693-7"
+      },
+      {
+        "id": "151",
+        "title": "Re-engineered neutral implementation",
+        "author": "Barbara Gonzalez",
+        "genry_type": "fiction",
+        "genry": "Romance",
+        "isbn": "978-0-400-15414-5"
+      },
+      {
+        "id": "487",
+        "title": "Realigned dedicated approach",
+        "author": "Ariel Stokes",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-1-935814-81-8"
+      },
+      {
+        "id": "441",
+        "title": "Realigned tangible groupware",
+        "author": "Lindsey Mann",
+        "genry_type": "fiction",
+        "genry": "Horror",
+        "isbn": "978-0-8335-3847-5"
+      },
+      {
+        "id": "77",
+        "title": "Reduced 6thgeneration ability",
+        "author": "Joel Stephenson",
+        "genry_type": "fiction",
+        "genry": "Fairytale",
+        "isbn": "978-1-83433-179-9"
+      },
+      {
+        "id": "41",
+        "title": "Reduced intermediate knowledge user",
+        "author": "Miranda Hicks",
+        "genry_type": "fiction",
+        "genry": "Suspense",
+        "isbn": "978-1-85592-775-9"
+      },
+      {
+        "id": "233",
+        "title": "Reverse-engineered full-range matrix",
+        "author": "Caitlin Howard",
+        "genry_type": "fiction",
+        "genry": "Romance",
+        "isbn": "978-0-282-29795-4"
+      },
+      {
+        "id": "21",
+        "title": "Reverse-engineered global parallelism",
+        "author": "Kelly Day",
+        "genry_type": "fiction",
+        "genry": "Fantasy",
+        "isbn": "978-0-423-84028-5"
+      },
+      {
+        "id": "93",
+        "title": "Reverse-engineered real-time archive",
+        "author": "Kimberly Vargas",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-1-117-05303-5"
+      },
+      {
+        "id": "425",
+        "title": "Right-sized fresh-thinking architecture",
+        "author": "Julian Daniel",
+        "genry_type": "fiction",
+        "genry": "Picture book",
+        "isbn": "978-0-19-892776-1"
+      },
+      {
+        "id": "171",
+        "title": "Robust composite open system",
+        "author": "Bruce Goodman",
+        "genry_type": "fiction",
+        "genry": "Horror",
+        "isbn": "978-1-962451-09-3"
+      },
+      {
+        "id": "493",
+        "title": "Seamless analyzing framework",
+        "author": "Devin Bentley",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-0-403-94838-3"
+      },
+      {
+        "id": "321",
+        "title": "Seamless dedicated parallelism",
+        "author": "Randy Mccann",
+        "genry_type": "fiction",
+        "genry": "Historical fiction",
+        "isbn": "978-0-7966-6313-9"
+      },
+      {
+        "id": "9",
+        "title": "Secured exuding knowledgebase",
+        "author": "Shelly Anthony",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-0-372-46981-0"
+      },
+      {
+        "id": "467",
+        "title": "Self-enabling encompassing knowledgebase",
+        "author": "Brendan Ponce",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-0-89295-566-4"
+      },
+      {
+        "id": "209",
+        "title": "Sharable leadingedge superstructure",
+        "author": "Erica Larson",
+        "genry_type": "fiction",
+        "genry": "Comic book",
+        "isbn": "978-1-08-433269-0"
+      },
+      {
+        "id": "69",
+        "title": "Sharable modular capacity",
+        "author": "Shelley Cummings",
+        "genry_type": "fiction",
+        "genry": "Paranormal romance",
+        "isbn": "978-1-216-55534-8"
+      },
+      {
+        "id": "259",
+        "title": "Stand-alone fault-tolerant database",
+        "author": "Anita Gibbs",
+        "genry_type": "fiction",
+        "genry": "Graphic novel",
+        "isbn": "978-1-86464-571-2"
+      },
+      {
+        "id": "301",
+        "title": "Stand-alone neutral framework",
+        "author": "Dillon Cruz",
+        "genry_type": "fiction",
+        "genry": "Drama",
+        "isbn": "978-1-01-383855-2"
+      },
+      {
+        "id": "141",
+        "title": "Stand-alone object-oriented Graphical User Interface",
+        "author": "Courtney Kennedy",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-1-176-95327-7"
+      },
+      {
+        "id": "153",
+        "title": "Streamlined responsive focus group",
+        "author": "Vicki Whitehead",
+        "genry_type": "fiction",
+        "genry": "Satire",
+        "isbn": "978-1-240-01841-3"
+      },
+      {
+        "id": "59",
+        "title": "Switchable 5thgeneration algorithm",
+        "author": "Kenneth Torres",
+        "genry_type": "fiction",
+        "genry": "Alternate history",
+        "isbn": "978-0-536-42594-2"
+      },
+      {
+        "id": "337",
+        "title": "Switchable disintermediate firmware",
+        "author": "Catherine Conrad",
+        "genry_type": "fiction",
+        "genry": "Drama",
+        "isbn": "978-0-7327-2888-5"
+      },
+      {
+        "id": "23",
+        "title": "Switchable eco-centric capacity",
+        "author": "Thomas Blair",
+        "genry_type": "fiction",
+        "genry": "Coming-of-age",
+        "isbn": "978-0-229-03511-3"
+      },
+      {
+        "id": "311",
+        "title": "Switchable next generation middleware",
+        "author": "Edgar Wright",
+        "genry_type": "fiction",
+        "genry": "Classic",
+        "isbn": "978-1-62548-783-4"
+      },
+      {
+        "id": "67",
+        "title": "Synchronized exuding access",
+        "author": "Tanner Swanson",
+        "genry_type": "fiction",
+        "genry": "Picture book",
+        "isbn": "978-0-361-53773-5"
+      },
+      {
+        "id": "297",
+        "title": "Synchronized homogeneous task-force",
+        "author": "Isaiah Bonilla",
+        "genry_type": "fiction",
+        "genry": "Thriller",
+        "isbn": "978-0-7783-6356-9"
+      },
+      {
+        "id": "255",
+        "title": "Synergistic 6thgeneration contingency",
+        "author": "Felicia Hill",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-1-394-25652-5"
+      },
+      {
+        "id": "419",
+        "title": "Synergized multi-tasking model",
+        "author": "Reginald Morris",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-0-17-662442-2"
+      },
+      {
+        "id": "413",
+        "title": "Team-oriented real-time website",
+        "author": "Mitchell Tate",
+        "genry_type": "fiction",
+        "genry": "Short story",
+        "isbn": "978-1-222-48513-4"
+      },
+      {
+        "id": "423",
+        "title": "Total bandwidth-monitored challenge",
+        "author": "Cristian Patton",
+        "genry_type": "fiction",
+        "genry": "Science fiction",
+        "isbn": "978-1-143-38145-4"
+      },
+      {
+        "id": "191",
+        "title": "Total disintermediate challenge",
+        "author": "Whitney Nichols",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-0-519-28365-1"
+      },
+      {
+        "id": "429",
+        "title": "Total methodical open system",
+        "author": "Daisy Larsen",
+        "genry_type": "fiction",
+        "genry": "Picture book",
+        "isbn": "978-0-566-22072-2"
+      },
+      {
+        "id": "471",
+        "title": "Triple-buffered object-oriented alliance",
+        "author": "Garrett Blankenship",
+        "genry_type": "fiction",
+        "genry": "Crime",
+        "isbn": "978-1-928532-90-3"
+      },
+      {
+        "id": "463",
+        "title": "Universal demand-driven parallelism",
+        "author": "Betty Steele",
+        "genry_type": "fiction",
+        "genry": "Alternate history",
+        "isbn": "978-0-375-74313-9"
+      },
+      {
+        "id": "63",
+        "title": "Universal executive superstructure",
+        "author": "Gina Scott",
+        "genry_type": "fiction",
+        "genry": "Alternate history",
+        "isbn": "978-1-74446-208-8"
+      },
+      {
+        "id": "51",
+        "title": "Universal solution-oriented database",
+        "author": "Ronald Jenkins",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-0-9940228-1-3"
+      },
+      {
+        "id": "71",
+        "title": "Up-sized 3rdgeneration protocol",
+        "author": "Jennifer Contreras",
+        "genry_type": "fiction",
+        "genry": "Satire",
+        "isbn": "978-1-5445-3775-7"
+      },
+      {
+        "id": "345",
+        "title": "Up-sized disintermediate installation",
+        "author": "Dorothy Brooks",
+        "genry_type": "fiction",
+        "genry": "Western",
+        "isbn": "978-1-06-191964-7"
+      },
+      {
+        "id": "291",
+        "title": "Upgradable static methodology",
+        "author": "Sabrina Welch",
+        "genry_type": "fiction",
+        "genry": "Alternate history",
+        "isbn": "978-1-896350-01-1"
+      },
+      {
+        "id": "391",
+        "title": "User-centric contextually-based help-desk",
+        "author": "Cheyenne Washington",
+        "genry_type": "fiction",
+        "genry": "Coming-of-age",
+        "isbn": "978-0-612-93267-8"
+      },
+      {
+        "id": "357",
+        "title": "Versatile dynamic focus group",
+        "author": "Karl Cross",
+        "genry_type": "fiction",
+        "genry": "Mystery",
+        "isbn": "978-1-176-46704-0"
+      },
+      {
+        "id": "355",
+        "title": "Versatile next generation protocol",
+        "author": "Kurt Burns",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-0-9643402-3-7"
+      },
+      {
+        "id": "427",
+        "title": "Virtual discrete core",
+        "author": "Roberta Ross",
+        "genry_type": "fiction",
+        "genry": "Chick lit",
+        "isbn": "978-0-537-38389-0"
+      },
+      {
+        "id": "397",
+        "title": "Vision-oriented high-level encryption",
+        "author": "Oscar Austin",
+        "genry_type": "fiction",
+        "genry": "Picture book",
+        "isbn": "978-1-922914-63-7"
+      },
+      {
+        "id": "95",
+        "title": "Visionary local matrices",
+        "author": "Ruben Turner",
+        "genry_type": "fiction",
+        "genry": "Science fiction",
+        "isbn": "978-1-321-85193-9"
+      },
+      {
+        "id": "143",
+        "title": "Visionary reciprocal solution",
+        "author": "Sharon Horne",
+        "genry_type": "fiction",
+        "genry": "Coming-of-age",
+        "isbn": "978-0-657-05555-4"
+      },
+      {
+        "id": "49",
+        "title": "Visionary static open system",
+        "author": "Stephanie Perez",
+        "genry_type": "fiction",
+        "genry": "Fantasy",
+        "isbn": "978-1-57923-559-8"
+      }
+    ]
+  }
+]
