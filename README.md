@@ -42,3 +42,7 @@ Python Beginner course and all Milestones
 ### [Milestone 8](milestone_8)
 
 All instructions for setup and run **Milestone 8** are in [README.md](milestone_8/README.md)
+
+### [Milestone 9](milestone_9)
+
+[milestone_9](milestone_9_workshop_9.ipynb)
