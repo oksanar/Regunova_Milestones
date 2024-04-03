@@ -45,4 +45,7 @@ All instructions for setup and run **Milestone 8** are in [README.md](milestone_
 
 ### [Milestone 9](milestone_9)
 
-[milestone_9](milestone_9_workshop_9.ipynb)
+[milestone_9]()
+
+### [Milestone 10](milestone_10)
+
