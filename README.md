@@ -45,7 +45,17 @@ All instructions for setup and run **Milestone 8** are in [README.md](milestone_
 
 ### [Milestone 9](milestone_9)
 
-[milestone_9]()
+[milestone_9](milestone_9_workshop_9.ipynb)
 
 ### [Milestone 10](milestone_10)
+
+- [database.csv](milestone_10/database.csv)
+- [fetch_report.py](milestone_10/fetch_report.py)
+- [README.md](milestone_10/README.md)
+- [requirements.txt](milestone_10/requirements.txt)
+- [server.py](milestone_10/server.py)
+- [test](milestone_10/test)
+- [test/fetch_report_unit_tests.py](milestone_10/test/fetch_report_unit_tests.py)
+- [test/server_unit_tests.py](milestone_10/test/server_unit_tests.py)
+
 
